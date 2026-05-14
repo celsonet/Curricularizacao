@@ -27,9 +27,9 @@ O projeto utiliza imagens como alternativas e possui sistema de pontuação, tel
 ---
 ## Equipe
 - Celso Carlos Emydio da Silva Neto
-- Vinicius Armando Zuchi
+- João Antonio Wilamoski Elias
 - Nicolas Dell'Agnolo Barni
-- João Antonio Wilamoski Elias 
+- Vinicius Armando Zuchi
 ---
 
 
@@ -37,8 +37,8 @@ O projeto utiliza imagens como alternativas e possui sistema de pontuação, tel
 
 | Tecnologia | Utilização |
 |---|---|
-| HTML5 | Estrutura do projeto |
-| CSS3 | Estilização |
+| HTML| Estrutura do projeto |
+| CSS | Estilização |
 | JavaScript | Lógica do quiz |
 
 ---
