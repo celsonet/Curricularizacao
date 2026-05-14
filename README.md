@@ -25,6 +25,13 @@ O projeto utiliza imagens como alternativas e possui sistema de pontuação, tel
 - Botão para jogar novamente
 
 ---
+## Equipe
+- Celso Carlos Emydio da Silva Neto
+- Vinicius Armando Zuchi
+- Nicolas Dell'Agnolo Barni
+- João Antonio Wilamoski Elias 
+---
+
 
 # Tecnologias Utilizadas
 
